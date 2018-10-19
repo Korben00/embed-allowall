@@ -1,6 +1,8 @@
 embed-allowall
 =======================
 
+[![GuardRails badge](https://badges.production.guardrails.io/Korben00/embed-allowall.svg)](https://www.guardrails.io)
+
 Plugin for [Discourse](http://discourse.org) to allow Discourse discussions to be embedded on any host.
 
 Installation
